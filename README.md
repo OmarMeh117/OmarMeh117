@@ -1,6 +1,6 @@
 cout << "Hello World!";
 - 👋 I’m @OmarMeh117
-- 👀 I’m interested in Software Engineering
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on any project to increase my knowledge in programming.
 - 📫 How to reach me omarmeh64@gmail.com or my phone number 646-830-3385
